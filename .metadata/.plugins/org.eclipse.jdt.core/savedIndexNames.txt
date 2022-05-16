@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\ProjectJava\Trangweb2\.metadata\.plugins\org.eclipse.jdt.core
+4107172649.index
+82755075.index
+2276921658.index
+1865797976.index
+3344588611.index
+2460795722.index
