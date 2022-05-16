@@ -67,6 +67,7 @@ public class LogInServlet extends HttpServlet
 		catch (SQLException ex)
 		{
 			Logger.getLogger(SignInServlet.class.getName()).log(Level.SEVERE, null, ex);
+			ádfádfádf
 			
 		}
 	}
